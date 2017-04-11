@@ -1,0 +1,33 @@
+Line 1
+
+This is a poem.
+
+Line 2
+
+It has lines.
+
+Line 3
+
+The lines are separated with markers.
+
+Line 4
+
+The markers help git.
+
+Line 5
+
+They help when git merges.
+
+Line 6
+
+Because they separate changes.
+
+Line 7
+
+The poem is now over.
+
+Line 8
+
+It was a bad poem?
+
+The End
