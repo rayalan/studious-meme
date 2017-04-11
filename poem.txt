@@ -14,10 +14,6 @@ Line 4
 
 The markers help git.
 
-Line 5
-
-They help when git merges.
-
 Line 6
 
 Because they separate changes.
