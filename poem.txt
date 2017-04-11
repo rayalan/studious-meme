@@ -1,33 +1,33 @@
 Line 1
 
-This is a poem.
+This is a modern poem.
 
 Line 2
 
-It has lines.
+It has eight lines.
 
 Line 3
 
-The lines are separated with markers.
+Markers separate the lines.
 
 Line 4
 
-The markers help git.
+Markers help git.
 
 Line 5
 
-They help when git merges.
+Git needs help when merging.
 
 Line 6
 
-Because they separate changes.
+The markers indicate line separations.
 
 Line 7
 
-The poem is now over.
+And now the poem ends.
 
 Line 8
 
-It was a bad poem?
+Do you like modern poetry?
 
 The End
